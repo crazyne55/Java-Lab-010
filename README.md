@@ -86,6 +86,7 @@ Wolf makes sound HOWL!!!
 
 * Trace through the code in WeatherStation and make sure you understand what you have to work with!
 * Look at the Display.java **interface** and in your own words, write below why you think we are declaring an **interface**.
+  * the Display interface is an interface because not just is it to teach us about the amazing things you can do in java, it is also because we can set up multiple "displays" (possibly with unique actions when monitoring) to keep track of the weather.
 
 ## Part 2 - Create 3 Classes that **Implement** Display.java
 
