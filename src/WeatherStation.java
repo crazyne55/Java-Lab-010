@@ -8,6 +8,11 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Trevor Hartman
+ *
+ * @author crazyne55
+ */
 public class WeatherStation {
     private URL url;
     private List<Display> displays;
